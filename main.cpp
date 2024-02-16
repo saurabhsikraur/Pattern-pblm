@@ -3,6 +3,9 @@
 using namespace std;
 void quicksort(){
 //
+} 
+void mergeS(){
+    //
 }
 int main(){
     std::cout<<"Hello! World"<<endl;
