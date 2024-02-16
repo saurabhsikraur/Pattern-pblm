@@ -1,6 +1,9 @@
 #include<iostream>
 #include<stdio.h>
 using namespace std;
+void quicksort(){
+//
+}
 int main(){
     std::cout<<"Hello! World"<<endl;
     std::cout<<"Hello Dot Batch"<<endl;
