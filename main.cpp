@@ -7,7 +7,7 @@ void quicksort(){
 void mergeS(){
     //
 }
-void countings(){
+void countingS(){
     //
 }
 int main(){
